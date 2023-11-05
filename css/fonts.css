@@ -1,0 +1,20 @@
+@font-face {
+    font-family: R4;
+    src: url(../fonts/OpenSans-Regular.ttf);
+}
+@font-face {
+    font-family: R7;
+    src: url(../fonts/OpenSans-Bold.ttf);
+}
+@font-face {
+    font-family: R6;
+    src: url(../fonts/OpenSans-SemiBold.ttf);
+}
+@font-face {
+    font-family: R8;
+    src: url(../fonts/OpenSans-ExtraBold.ttf);
+}
+@font-face {
+    font-family: R5;
+    src: url(../fonts/BebasNeue-Regular.ttf);
+}
